@@ -2,6 +2,7 @@
   "name": "svg2canvas-gui",
   "private": true,
   "packageManager": "pnpm@8.6.2",
+  "author": "zian<hi.eleven@outlook.com>",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -35,6 +36,7 @@
     "vite": "^5.2.0"
   },
   "volta": {
-    "node": "18.19.0"
+    "node": "18.19.0",
+    "pnpm": "8.15.6"
   }
 }
